@@ -1,0 +1,18 @@
+{
+  "title": "Product launch planning",
+  "thread_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2025-01-01T00:00:00Z",
+  "exported_at": "2026-10-08T17:23:03.590Z",
+  "messages": [
+    {
+      "type": "human",
+      "id": "m5",
+      "content": "Summarize the next steps for our launch plan."
+    },
+    {
+      "type": "ai",
+      "id": "m6",
+      "content": "## Launch plan — next steps\n\n1. Confirm the content calendar and assign owners.\n2. Book the launch event and prepare invitations.\n3. Finalize partner outreach and the shared timeline.\n\nThe original budget and deadline remain unchanged. Export this conversation to share the full planning record with the team."
+    }
+  ]
+}

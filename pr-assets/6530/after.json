@@ -1,0 +1,38 @@
+{
+  "title": "Product launch planning",
+  "thread_id": "00000000-0000-0000-0000-000000000001",
+  "created_at": "2025-01-01T00:00:00Z",
+  "exported_at": "2026-10-08T17:22:11.757Z",
+  "messages": [
+    {
+      "type": "human",
+      "id": "m1",
+      "content": "Plan a product launch. Our budget is $25,000 and the launch date is November 15. These are the original requirements."
+    },
+    {
+      "type": "ai",
+      "id": "m2",
+      "content": "I will keep the $25,000 budget and November 15 launch date as the baseline for the plan."
+    },
+    {
+      "type": "human",
+      "id": "m3",
+      "content": "Allocate $10,000 to content, $8,000 to events, and $7,000 to partner outreach."
+    },
+    {
+      "type": "ai",
+      "id": "m4",
+      "content": "The allocation totals $25,000. Each workstream will use the same November 15 launch deadline."
+    },
+    {
+      "type": "human",
+      "id": "m5",
+      "content": "Summarize the next steps for our launch plan."
+    },
+    {
+      "type": "ai",
+      "id": "m6",
+      "content": "## Launch plan — next steps\n\n1. Confirm the content calendar and assign owners.\n2. Book the launch event and prepare invitations.\n3. Finalize partner outreach and the shared timeline.\n\nThe original budget and deadline remain unchanged. Export this conversation to share the full planning record with the team."
+    }
+  ]
+}
